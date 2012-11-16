@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : org 0x7c00
-tagline: Site Tagline
+tagline:
 author :
   name : ipmsteven
   email : steven.lyl a.t. hotmail.com 
